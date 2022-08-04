@@ -1,7 +1,7 @@
 # Age-in-Minutes
 
 *************************************************************************************************************************************************************************
-                                                           INTRODUCTION TO PROJECT
+                                                INTRODUCTION TO PROJECT
 
 It is an android application which calculates the age of an individual and converts it into the measure of Minutes. 
 
@@ -9,7 +9,7 @@ It is my first the world of Android App Development.
 
 *************************************************************************************************************************************************************************
                                 
-                                                             WORKING OF PROJECT
+                                                    WORKING OF PROJECT
 
 Working-
 
@@ -22,7 +22,7 @@ Each and every small bit of information regarding the develpoment mainly the sou
 
 **********************************************************************************************************************************************************************
 
-                                                               TECHNOLOGIES
+                                                       TECHNOLOGIES
 
 Technologies used in this project are - 
    1.Kotlin
@@ -30,7 +30,7 @@ Technologies used in this project are -
 
 **********************************************************************************************************************************************************************
 
-                                                            END PRODUCT DEVELOPED
+                                                   END PRODUCT DEVELOPED
 
 Below I am also showing the end product delivered after the successful completion of Project through the medium of Images and vedios.
  
