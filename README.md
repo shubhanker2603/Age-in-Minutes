@@ -34,9 +34,10 @@ Technologies used in this project are -
 
 Below I am also showing the end product delivered after the successful completion of Project through the medium of Images and vedios.
  
-     ![body of app](https://user-images.githubusercontent.com/72600840/182912903-0944cc1f-9f33-4740-b539-4659491acb8a.png)
+     ![Screenshot_2022-08-04-23-00-01-25_427cd6913834b7720568adf8954ee3d9](https://user-images.githubusercontent.com/72600840/182916920-bc8fe80b-9f4d-40c8-a8a4-fe7297f1a2c1.jpg)
 
-     ![Screenshot_2022-08-04-23-00-01-25_427cd6913834b7720568adf8954ee3d9](https://user-images.githubusercontent.com/72600840/182914479-1ff9b58b-14ac-4542-85d0-dc67dc969dd6.jpg)
+![body of app](https://user-images.githubusercontent.com/72600840/182917441-570f8583-8bc4-4804-94f6-3d68afa6459c.png)
+
 
 **********************************************************************************************************************************************************************
      
